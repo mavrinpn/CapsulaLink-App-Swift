@@ -39,4 +39,4 @@ The mobile application is designed to support connecting new models of air purif
 [![Capsula Youtube](https://github.com/mavrinpn/Capsula-Link-App/raw/main/img/youtube.png)](https://www.youtube.com/watch?v=IMMxL6rDj3A)
 
 
-My LinkedIn: [Pavel Mavrin](https://www.linkedin.com/in/pavel-mavrin-developer/)
+My LinkedIn: [Pavel Mavrin](https://www.linkedin.com/in/mavrinpn/)
